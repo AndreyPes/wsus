@@ -1,0 +1,5 @@
+C:\Users\Pescherskiy_AN\documents\visual studio 2015\Projects\WSUS\WSUS\bin\Debug\WSUS.exe.config
+C:\Users\Pescherskiy_AN\documents\visual studio 2015\Projects\WSUS\WSUS\bin\Debug\WSUS.exe
+C:\Users\Pescherskiy_AN\documents\visual studio 2015\Projects\WSUS\WSUS\bin\Debug\WSUS.pdb
+C:\Users\Pescherskiy_AN\documents\visual studio 2015\Projects\WSUS\WSUS\obj\Debug\WSUS.exe
+C:\Users\Pescherskiy_AN\documents\visual studio 2015\Projects\WSUS\WSUS\obj\Debug\WSUS.pdb
